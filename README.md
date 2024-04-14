@@ -10,7 +10,7 @@ Your shop's parts list. For each part fill in the feilds.
 
 Weight (g) and Print Time (2 days, 3 hours, 5 Minutes enter as 51:05) from your slicer. 
 
-The next 7 fields ar in minutes it takes to perform the action. 
+The next 7 fields are in minutes it takes to perform the action. 
 
 Quote Price is how much you want for the part. The purple fields are just for notes. 
 
