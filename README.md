@@ -1,5 +1,8 @@
 
-# 3D-Printing-costs
+# 3D-Printing-costs (FDM / FFF)
+**Warning**: Changing SHEETNAMES or cell positions will break most of the formulas in this workbook. 
+
+If you have ideas about something to add, please let me know since I'd probably like to use it to.
 ## Quote
 Your shop's part's Quote
 
