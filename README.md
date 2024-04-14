@@ -11,7 +11,7 @@ Click on the Description > Select Part > Part Quote is displayed
 ## Parts
 Your shop's parts list. For each part fill in the feilds. 
 
-Weight (g) and Print Time (2 days, 3 hours, 5 Minutes enter as 51:05) from your slicer. 
+Weight (g) and Print Time (2 days, 3 hours, 5 Minutes enter as 51:05 / 52 Mins enter as 0:52) from your slicer. 
 
 The next 7 fields are in minutes it takes to perform the action. 
 
