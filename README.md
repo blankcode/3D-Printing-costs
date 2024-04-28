@@ -3,12 +3,12 @@
 
 If you have ideas about something to add, please let me know since I'd probably like to use it to.
 ## Quote
-Your shop's part's Quote
+Your shop's product's Quote
 
 Click on the Description > Select Part > Part Quote is displayed
 
 ## Parts
-Your shop's parts list. For each part fill in the feilds. 
+Your shop's products list. For each part fill in the feilds. 
 
 Weight (g) and Print Time (2 days, 3 hours, 5 Minutes enter as 51:05 / 52 Mins enter as 0:52) from your slicer. 
 
