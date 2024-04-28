@@ -1,3 +1,4 @@
+
 # 3D-Printing-costs (FDM / FFF)
 **Warning**: Changing SHEETNAMES or cell positions will break most of the formulas in this workbook. 
 
@@ -48,13 +49,10 @@ General variables
 In these 4 sheets I have each of the colors I use denoted with a color name and a background color representative of the color.
 
 ### Product Inventory
-Printed parts in inventory ready to sell
-
-### Product Inventory Targets
-How many printed parts do you want in inventory
-
-### Product to Print
-Parts that are needed to be printed to fill inventory.
+Each product (line) has a list of colors, and each color has 3 numbers:
+ - Printed parts in inventory ready to sell.
+ - How many printed parts do you want in inventory.
+ - Parts that are needed to be printed to fill inventory.
 
 Overstock are shown as negatives
 
