@@ -33,20 +33,20 @@ A list of hardware their costs, cost per unit, and where to get them.
 ## Printers
 Your printer Models, not individual machines. (*I have four Sovol SV06+ printers, ZI list one printer.*)
 
-**Input**: Name, Material Diameter [mm], Price, Depreciation Time, Service costs per life, Energy Consumption [kWh/h], Start Up Time
+**Input**: Name, Material Diameter [mm], Price, Depreciation Time, Service costs per life, Energy Consumption [kWh/h], Start-Up Time
 
 ## Materials
 Your materials. This is where the pricing for your material resides.
 
 ## General
-General variables
+General Variables
 
-**Input**: Energy cost, High Labor Costs, Low Labor Costs, Failure rate, Money unit
+**Input**: Energy cost, High Labor Costs, Low Labor Costs, Failure rate, Money unit, Payment processing costs
 
 **For Space Input**: Rent/Mo, Tot. Sq. Ft., Used Sq. Ft.
 
 ## Inventory Management
-In these 4 sheets I have each of the colors I use denoted with a color name and a background color representative of the color.
+In these 4 sheets, I have each of the colors I use denoted with a color name and a background color representative of the color.
 
 ### Product Inventory
 Each product (line) has a list of colors, and each color has 3 numbers:
@@ -54,7 +54,7 @@ Each product (line) has a list of colors, and each color has 3 numbers:
  - How many printed parts do you want in inventory.
  - Parts that are needed to be printed to fill inventory.
 
-Overstock are shown as negatives
+Overstocks are shown as negatives
 
 ### Materials Inventory
 Inventory of individual rolls of filament.
