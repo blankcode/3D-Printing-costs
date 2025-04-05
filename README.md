@@ -28,9 +28,10 @@ One-off parts/project quote. Same as "Quote", but isolated.
 One-off parts/project List. Same as "Parts", but isolated.
 
 ## Hardware|Consumables
-Hardware that is added to your parts.
+Hardware that is added to your parts. A list of hardware, their costs per pack, cost per unit, and where to get them.
 
-A list of hardware, their costs per pack, cost per unit, and where to get them.
+## Hardware Packet Template
+Use copies of this sheet to build packets of hardware from the "Hardware|Consumables" sheet; this lets you create groups of hardware usually too large for the six allotted component spaces.
 
 ## Printers
 Your printer Models, not individual machines. (*I have four Sovol SV06+ printers; I list one printer.*)
@@ -45,7 +46,7 @@ General Variables
 
 **Input**: Energy cost, High Labor Costs, Low Labor Costs, Failure rate, Money unit, Payment processing costs
 
-**For Space Input**: Rent/Mo, Tot. Sq. Ft., Used Sq. Ft.
+**For Space Input**: Rent/Mo, Tot. Sq. Ft., Used Sq. Ft. (This is the same figure you should take as your "work/office space" on your taxes.)
 
 ## Inventory Management
 In these four sheets, I have each of the colors I use denoted with a color name and a background color representative of the color.
